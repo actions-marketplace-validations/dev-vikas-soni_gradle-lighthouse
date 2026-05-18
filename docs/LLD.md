@@ -1,7 +1,7 @@
 # Low-Level Design
 
 > Implementation reference for contributors. Complements [HLD.md](HLD.md).
-> v2.2.0
+> v2.2.1
 
 ---
 
