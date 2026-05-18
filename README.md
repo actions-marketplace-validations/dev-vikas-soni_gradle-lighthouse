@@ -16,6 +16,14 @@ Gradle Lighthouse audits module structure, dependency hygiene, security, build p
 
 `gradle-lighthouse` is built for teams that want more than lint-style findings.
 
+<img width="1512" height="783" alt="phase-2-ss-1" src="https://github.com/user-attachments/assets/bb098ecb-8a88-49bb-a024-3301efaadeac" />
+
+
+<img width="1223" height="792" alt="actual_nia_project_dashbaord" src="https://github.com/user-attachments/assets/4357074f-6070-4d55-b152-395e15e1eb51" />
+
+
+<img width="1223" height="785" alt="actual_nia_module_dashbaord" src="https://github.com/user-attachments/assets/9d708aa9-e34b-4c4e-86c5-fdcd5c994436" />
+
 It helps you:
 - detect circular dependencies and illegal layer crossings in multi-module builds
 - spot risky dependency patterns, unused declarations, catalog hygiene gaps, and version conflicts
